@@ -1,0 +1,7 @@
+item_ID|Name|Type|Quantity|Find no.|Relation|
+K100-03|NULL|NULL|NULL|NULL|P|
+N300-20|Test1|H2Bike|3|50|C|
+N300-21|Test2|H2Bike|4|30|c|
+N300-21|NULL|NULL|NULL|NULL|P|
+N300-22|Test3|H2Bike|3|50|C|
+N300-23|Test4|H2Bike|3|50|C|
